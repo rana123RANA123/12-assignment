@@ -1,0 +1,29 @@
+#lastnavbar {
+  background-color: rgb(32, 31, 31);
+}
+
+#firstnavbar {
+  background-color: rgb(32, 31, 31) !important;
+}
+
+main {
+  flex: 1 0 auto;
+  background-color: rgb(237, 242, 223);
+}
+main .buttons .btn {
+  margin-bottom: 8px;
+  min-height: 45%;
+  width: 40vh;
+}
+main .buttons .btn:last-child {
+  margin-bottom: 0;
+}
+
+.border {
+  border-color: rgb(32, 31, 31) !important;
+}
+
+#original {
+  background-color: rgb(32, 31, 31);
+  color: white;
+}/*# sourceMappingURL=style.css.map */
